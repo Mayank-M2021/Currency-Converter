@@ -1,1 +1,3 @@
 # Currency-Converter
+
+The Currency Converter project in Java facilitates seamless currency exchange by providing real-time rates. Exception handling is managed in the CurrencyConverter class, ensuring uninterrupted operation. MainWindow class constructs the user-friendly GUI, incorporating labels, text fields, menus, and buttons. The main class sets the content panel with a background image. Currency class handles user inputs, utilizing switch loops and mathematical functions to calculate currency conversions. HashMap and arrays efficiently map currencies and store values. This project ensures ease of use and accuracy for users transferring funds across borders.
